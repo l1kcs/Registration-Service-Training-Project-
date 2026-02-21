@@ -1,4 +1,4 @@
-# 🚀 Registration Service (Training Project)
+# 🚀 Registration Service Training Project
 
 Цей проєкт є частиною навчального курсу з розробки на **Java** та присвячений відпрацюванню навичок написання бізнес-логіки валідації та комплексного **Unit-тестування**.
 
